@@ -19,5 +19,4 @@ https://www.baeldung.com/opencsv
 https://www.sqlitetutorial.net/download-install-sqlite/
 
 
-First, almost all the tools i've used i learned in the span of the whole challenge. The 
-  
+First, almost all the tools i've used i learned in the span of the whole challenge. Got stuck on inserting the correct formatted fields on the database.
